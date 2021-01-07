@@ -1,6 +1,7 @@
 .home-container {
-  padding-top: 100px;
-  height: calc(100vh - 254px);
+  padding-top: 20px;
+  height: calc(100vh - 204px);
+  margin: 0 auto 50px auto;
 }
 
 .home-container h1 {
